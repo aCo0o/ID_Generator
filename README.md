@@ -2,8 +2,13 @@
 Generate ID/Passwords with one click
 
 
-1. Type in Length of ID/Password
-2. Click "Generate ID"
+1. Type in **Length** of ID/Password
+2. Click "**Generate ID**"
+
+
+
+* **It copies to clipboard automatically**
+
 
 ===
 
